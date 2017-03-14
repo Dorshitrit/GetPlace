@@ -1,0 +1,163 @@
+<resources>
+    <string name="app_name">GetPlace</string>
+
+
+    <!--MainActivity-->
+    <string name="clear">Clear</string>
+    <!--CV_Menu-->
+    <string name="action_history">History</string>
+    <string name="action_setting">Setting</string>
+    <string name="action_like">Like</string>
+    <string name="action_list">List</string>
+
+
+    <!--info activity CLASS-->
+    <string name="info_no_available_rating">No rating available for this place</string>
+    <string name="info_rating_by_google"> Rating by Google</string>
+    <string name="info_no_available_web">No Website Available</string>
+    <string name="info_no_available_phone">No Phone Available</string>
+    <string name="info_no_available_address">No Address Available</string>
+    <string name="info_tap_to_like">Tap to like this place!</string>
+    <string name="info_user_like_place">You like this place</string>
+    <string name="info_system_report">Contact us! For any issue</string>
+
+
+    <!--Checking internet connection-->
+    <string name="info_cant_load_image">Can"t load images. No internet connection!</string>
+
+
+    Location Services
+    <string name="info_ask_permission">You must give me PHONE permission</string>
+    <string name="info_"></string>
+
+
+    <!--info xml activity-->
+    <string name="info_place_information">Place Information</string>
+    <string name="info_user_information">User Information</string>
+    <string name="info_system_information">System Information</string>
+    <string name="main_charging">The device is charging</string>
+    <string name="main_not_charging">The device is not charging</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="Imagedesc">Image</string>
+    <string name="TextView">TextView</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="warning">Warning!</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="title_remove_history_list">You are about to clean your HISTORY list!</string>
+    <string name="title_remove_favorite_list">You are about to clean your FAVORITE list!</string>
+
+    <string name="title_remove_favorite_place">You are about to delete place you liked!</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General Setting</string>
+
+    <string name="pref_title_distance_recommendations">Unit System</string>
+    <string name="pref_description_distance_recommendations">Change Distance from Metric to Imperial(U.S)</string>
+
+    <string name="pref_title_nightmode_recommendations">Night Mode</string>
+    <string name="pref_description_nightmode_recommendations">This function change map style to dark. Recommended when driving</string>
+
+    <string name="pref_title_nightmodeclock_recommendations">Automatic Night Mode</string>
+    <string name="pref_description_nightmodeclock_recommendations">This function change map style to dark AUTOMATICALLY</string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_change_map_style">Choose GoogleMap style</string>
+    <string-array name="pref_style_list_titles">
+        <item>Aubergine</item>
+        <item>GrayScale</item>
+        <item>Dark</item>
+        <item>Retro</item>
+        <item>Standard</item>
+    </string-array>
+    <string-array name="pref_style_list_values">
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">User Data</string>
+
+    <string name="pref_title_about_app">about_app</string>
+    <string name="pref_title_about_info">This application Made by Dor Shitrit. Click Here!</string>
+
+    <string name="pref_title_delete_history_key">delete_history</string>
+    <string name="pref_title_delete_history">Delete History</string>
+    <string name="pref_description_delete_history">On click this button, You will delete all your history searches</string>
+
+    <string name="pref_title_delete_favorite_key">delete_favorite</string>
+    <string name="pref_title_delete_favorite">Delete Favorite</string>
+    <string name="pref_description_delete_favorite">On click this button, You will delete all your favorite searches</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="multi_select_list_preference_default_value" />
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_about">About App</string>
+
+    <string name="pref_header_mapstyle">Map Styling</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+
+
+    <!--    Styling    -->
+    <string name="styled_map_demo_label">Styled Map</string>
+    <string name="styled_map_demo_description">Demonstrates how to style a map.</string>
+    <string name="style_label_retro">Retro</string>
+    <string name="style_label_night">Night</string>
+    <string name="style_label_grayscale">Grayscale</string>
+    <string name="style_label_no_pois_no_transit">No POIs or transit</string>
+    <string name="style_label_default">Default</string>
+    <string name="style_choose">Choose style</string>
+    <string name="style_set_to">Style set to: %1$s</string>
+
+
+</resources>

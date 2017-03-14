@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\DorSh\\Desktop\\GP BACKUP\\GetPlace\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\DorSh\\.android\\build-cache\\404d26f4647261dc3b812b388934c8920fbe2483\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\DorSh\\Desktop\\GP BACKUP\\GetPlace\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\DorSh\\.android\\build-cache\\404d26f4647261dc3b812b388934c8920fbe2483\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\DorSh\\Desktop\\GP BACKUP\\GetPlace\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\DorSh\\.android\\build-cache\\404d26f4647261dc3b812b388934c8920fbe2483\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\DorSh\\Desktop\\GP BACKUP\\GetPlace\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\DorSh\\.android\\build-cache\\c198edce7f71013e085b7ffd0bba6f690f792ffe\\output\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\DorSh\\Desktop\\GP BACKUP\\GetPlace\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\DorSh\\.android\\build-cache\\404d26f4647261dc3b812b388934c8920fbe2483\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]

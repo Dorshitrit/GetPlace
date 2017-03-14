@@ -1,0 +1,189 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml:2:1-63:12
+	package
+		ADDED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml:3:5-31
+		INJECTED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml
+uses-permission#com.javapapers.android.googleplacesdetail.permission.MAPS_RECEIVE
+ADDED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml:5:5-105
+	android:name
+		ADDED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml:5:22-102
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml:6:5-67
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\DorSh\.android\build-cache\89283ce2bf786960e6741ea4b2bf3ef292e39b88\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml:8:5-98
+	android:name
+		ADDED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml:8:22-95
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml:11:5-79
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\DorSh\.android\build-cache\89283ce2bf786960e6741ea4b2bf3ef292e39b88\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml:12:5-69
+	android:name
+		ADDED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml:12:22-66
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml:13:22-73
+uses-feature#0x00020000
+ADDED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml:15:5-17:35
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\DorSh\.android\build-cache\89283ce2bf786960e6741ea4b2bf3ef292e39b88\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml:16:9-41
+	android:required
+		ADDED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml:17:9-32
+application
+ADDED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml:19:5-61:19
+MERGED from [com.github.arimorty:floatingsearchview:2.0.3] C:\Users\DorSh\.android\build-cache\ea25de8c433218aa9b002d5edf121337c92a2ead\output\AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:cardview-v7:25.1.1] C:\Users\DorSh\.android\build-cache\75577e97a67b0b0cbd550f165f79dea8c254a091\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] C:\Users\DorSh\.android\build-cache\9e108733bd48a3845ec910c05b1de1383c7256d2\output\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-places:10.0.1] C:\Users\DorSh\.android\build-cache\c198edce7f71013e085b7ffd0bba6f690f792ffe\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\DorSh\.android\build-cache\89283ce2bf786960e6741ea4b2bf3ef292e39b88\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-location:10.0.1] C:\Users\DorSh\.android\build-cache\d5aaf953dc8368809d8ffd861abec548868f28e8\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\DorSh\.android\build-cache\d39715870f2cc66a8e477ffa1964f0566c1c4e52\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\DorSh\.android\build-cache\963426a988330553c760b4edabb1c36d5b78212d\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\DorSh\.android\build-cache\f788b743b51f7557b47d508bba6205bf69d3dc44\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:design:25.1.1] C:\Users\DorSh\.android\build-cache\09f07f23a484d3e54c74088d5e28990b53aecaf8\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\DorSh\.android\build-cache\404d26f4647261dc3b812b388934c8920fbe2483\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\DorSh\.android\build-cache\cdbe8dbd24d95eb7f57056faf1d9158d13b5af97\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\DorSh\.android\build-cache\97ec654f9e1fcc3db5f7eea96352137cd97ebc55\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.1.1] C:\Users\DorSh\.android\build-cache\bdf6a55ed96ca1628148b315ad78ff6abd123c4a\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\DorSh\.android\build-cache\70d15c0ff24548aeea977496b801277a2852511e\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\DorSh\.android\build-cache\1a724510373847397f43d5d23300f64168e9ceb9\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\DorSh\.android\build-cache\afa7b7ca58ac4a785dca20151bb15bfb2f7fa5ed\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\DorSh\.android\build-cache\a79cac55f16aa2f64949edb767ecd52feee877d3\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\DorSh\.android\build-cache\5db2af5c7f3e61f76a0610d595ea7331e2e41175\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\DorSh\.android\build-cache\971dacfcb738042066a385d365301010c364fb03\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\DorSh\.android\build-cache\f9e531488da246418330b5bec9c36ed494c9233f\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml:22:9-41
+	android:supportsRtl
+		ADDED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml:23:9-36
+	android:allowBackup
+		ADDED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml:20:9-35
+	android:icon
+		ADDED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml:21:9-43
+	android:theme
+		ADDED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml:24:9-40
+activity#app.com.getplace.UI.MainActivity
+ADDED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml:25:9-34:20
+	android:configChanges
+		ADDED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml:28:13-74
+	android:theme
+		ADDED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml:27:13-47
+	android:name
+		ADDED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml:26:13-44
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml:32:27-74
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml:36:9-38:71
+	android:value
+		ADDED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml:38:13-68
+	android:name
+		ADDED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml:37:13-58
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml:39:9-41:69
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\DorSh\.android\build-cache\f788b743b51f7557b47d508bba6205bf69d3dc44\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml:41:13-66
+	android:name
+		ADDED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml:40:13-58
+activity#app.com.getplace.UI.InfoActivity
+ADDED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml:43:9-51:20
+	android:parentActivityName
+		ADDED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml:47:13-58
+	android:configChanges
+		ADDED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml:46:13-74
+	android:theme
+		ADDED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml:45:13-47
+	android:name
+		ADDED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml:44:13-44
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml:48:13-50:68
+	android:value
+		ADDED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml:50:17-65
+	android:name
+		ADDED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml:49:17-63
+activity#app.com.getplace.UI.SettingsActivity
+ADDED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml:53:9-60:20
+	android:label
+		ADDED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml:55:13-60
+	android:parentActivityName
+		ADDED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml:56:13-58
+	android:name
+		ADDED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml:54:13-48
+uses-sdk
+INJECTED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.github.arimorty:floatingsearchview:2.0.3] C:\Users\DorSh\.android\build-cache\ea25de8c433218aa9b002d5edf121337c92a2ead\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.bartoszlipinski:viewpropertyobjectanimator:1.2.0] C:\Users\DorSh\.android\build-cache\e147300f8d7d6eef46a50762b63bbeb830d19c87\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:cardview-v7:25.1.1] C:\Users\DorSh\.android\build-cache\75577e97a67b0b0cbd550f165f79dea8c254a091\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] C:\Users\DorSh\.android\build-cache\9e108733bd48a3845ec910c05b1de1383c7256d2\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-places:10.0.1] C:\Users\DorSh\.android\build-cache\c198edce7f71013e085b7ffd0bba6f690f792ffe\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\DorSh\.android\build-cache\89283ce2bf786960e6741ea4b2bf3ef292e39b88\output\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-location:10.0.1] C:\Users\DorSh\.android\build-cache\d5aaf953dc8368809d8ffd861abec548868f28e8\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\DorSh\.android\build-cache\d39715870f2cc66a8e477ffa1964f0566c1c4e52\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\DorSh\.android\build-cache\963426a988330553c760b4edabb1c36d5b78212d\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\DorSh\.android\build-cache\f788b743b51f7557b47d508bba6205bf69d3dc44\output\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:design:25.1.1] C:\Users\DorSh\.android\build-cache\09f07f23a484d3e54c74088d5e28990b53aecaf8\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\DorSh\.android\build-cache\404d26f4647261dc3b812b388934c8920fbe2483\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\DorSh\.android\build-cache\cdbe8dbd24d95eb7f57056faf1d9158d13b5af97\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\DorSh\.android\build-cache\97ec654f9e1fcc3db5f7eea96352137cd97ebc55\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.1.1] C:\Users\DorSh\.android\build-cache\85149b0ff42e242f63002063269ee8074f017730\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.1.1] C:\Users\DorSh\.android\build-cache\bdf6a55ed96ca1628148b315ad78ff6abd123c4a\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\DorSh\.android\build-cache\70d15c0ff24548aeea977496b801277a2852511e\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\DorSh\.android\build-cache\1a724510373847397f43d5d23300f64168e9ceb9\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\DorSh\.android\build-cache\afa7b7ca58ac4a785dca20151bb15bfb2f7fa5ed\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\DorSh\.android\build-cache\a79cac55f16aa2f64949edb767ecd52feee877d3\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\DorSh\.android\build-cache\5db2af5c7f3e61f76a0610d595ea7331e2e41175\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\DorSh\.android\build-cache\971dacfcb738042066a385d365301010c364fb03\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\DorSh\.android\build-cache\f9e531488da246418330b5bec9c36ed494c9233f\output\AndroidManifest.xml:7:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.1.1] C:\Users\DorSh\.android\build-cache\09f07f23a484d3e54c74088d5e28990b53aecaf8\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DorSh\Desktop\GP BACKUP\GetPlace\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\DorSh\.android\build-cache\d39715870f2cc66a8e477ffa1964f0566c1c4e52\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\DorSh\.android\build-cache\d39715870f2cc66a8e477ffa1964f0566c1c4e52\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\DorSh\.android\build-cache\d39715870f2cc66a8e477ffa1964f0566c1c4e52\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\DorSh\.android\build-cache\d39715870f2cc66a8e477ffa1964f0566c1c4e52\output\AndroidManifest.xml:19:19-85

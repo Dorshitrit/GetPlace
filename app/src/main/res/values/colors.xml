@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#d9d9d9</color>
+    <color name="colorSetting">#ededed</color>
+    <color name="colorPrimaryDark">#313131</color>
+    <color name="colorAccent">#007bff</color>
+    <color name="navigationBarColor">#005eff</color>
+
+
+    <color name="SearchBarColor">#d0ffffff</color>
+
+
+    <!--INFO -->
+
+    <color name="info_background">#d9d9d9</color>
+
+    <color name="info_index_title">#ffffff</color>
+    <color name="info_index_background">#d8000000</color>
+
+    <color name="info_menu_bar_background">#292929</color>
+
+    <color name="info_background_title">#ffffff</color>
+    <color name="info_text_title">#001649</color>
+
+    <color name="info_background_line_text">#ffffff</color>
+    <color name="info_text_line_text">#454545</color>
+
+
+    <color name="PlaceWcolor">#c5c5c5</color>
+    <color name="PlaceBcolor">#000000</color>
+</resources>

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\DorSh\\Desktop\\GP BACKUP\\GetPlace\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_headers.xml",
+        "source": "C:\\Users\\DorSh\\Desktop\\GP BACKUP\\GetPlace\\app\\src\\main\\res\\xml\\pref_headers.xml"
+    },
+    {
+        "merged": "C:\\Users\\DorSh\\Desktop\\GP BACKUP\\GetPlace\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_general.xml",
+        "source": "C:\\Users\\DorSh\\Desktop\\GP BACKUP\\GetPlace\\app\\src\\main\\res\\xml\\pref_general.xml"
+    },
+    {
+        "merged": "C:\\Users\\DorSh\\Desktop\\GP BACKUP\\GetPlace\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_style.xml",
+        "source": "C:\\Users\\DorSh\\Desktop\\GP BACKUP\\GetPlace\\app\\src\\main\\res\\xml\\pref_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\DorSh\\Desktop\\GP BACKUP\\GetPlace\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_data_sync.xml",
+        "source": "C:\\Users\\DorSh\\Desktop\\GP BACKUP\\GetPlace\\app\\src\\main\\res\\xml\\pref_data_sync.xml"
+    },
+    {
+        "merged": "C:\\Users\\DorSh\\Desktop\\GP BACKUP\\GetPlace\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_about.xml",
+        "source": "C:\\Users\\DorSh\\Desktop\\GP BACKUP\\GetPlace\\app\\src\\main\\res\\xml\\pref_about.xml"
+    }
+]

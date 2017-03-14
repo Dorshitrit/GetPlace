@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">@color/colorSetting</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:navigationBarColor" tools:ignore="NewApi">@color/navigationBarColor</item>
+        <!--<item name="android:windowNoTitle">true</item>-->
+    </style>
+
+
+        <style name="NoActionBar" parent="@style/Theme.AppCompat.Light.NoActionBar">
+            <item name="colorPrimary">@color/colorSetting</item>
+            <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+            <item name="colorAccent">@color/colorAccent</item>
+            <item name="android:navigationBarColor" tools:ignore="NewApi">@color/navigationBarColor</item>
+            <item name="android:windowNoTitle">true</item>
+        </style>
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+</resources>

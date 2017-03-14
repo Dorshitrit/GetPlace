@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:balloonberry="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_Open_ListHistory"
+        android:icon="@drawable/ic_history"
+        android:orderInCategory="4"
+        android:title="@string/action_history"
+        balloonberry:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_Open_liked"
+        android:icon="@drawable/ic_like_off"
+        android:orderInCategory="3"
+        android:title="@string/action_like"
+        balloonberry:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_Open_ListList"
+        android:icon="@drawable/placeicon"
+        android:orderInCategory="2"
+        android:title="@string/action_list"
+        balloonberry:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_Open_Setting"
+        android:icon="@drawable/ic_menu_settings"
+        android:orderInCategory="1"
+        android:title="@string/action_setting"
+        balloonberry:showAsAction="ifRoom" />
+
+
+</menu>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/map_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="app.com.getplace.UI.MapFragment">
+
+    <com.google.android.gms.maps.MapView
+        android:id="@+id/mapContainer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+
+    <com.arlib.floatingsearchview.FloatingSearchView
+        android:id="@+id/floating_search_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textAlignment="viewStart"
+        android:visibility="visible"
+        android:layout_marginTop="4dp"
+        app:floatingSearch_actionMenuOverflowColor="#0095ff"
+        app:floatingSearch_backgroundColor="@color/SearchBarColor"
+        app:floatingSearch_close_search_on_keyboard_dismiss="true"
+        app:floatingSearch_dimBackground="false"
+        app:floatingSearch_dismissOnOutsideTouch="true"
+        app:floatingSearch_menu="@menu/search_menu"
+        app:floatingSearch_searchHint="Example: Pizza TLV"
+        app:floatingSearch_showMenuAction="true"
+        app:floatingSearch_showOverFlowMenu="true"
+        app:floatingSearch_suggestionsListAnimDuration="250"
+        app:floatingSearch_viewTextColor="#000000" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="10dp"
+        android:gravity="end|bottom"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent">
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/CurrentLocation"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            app:backgroundTint="#efefef"
+            android:clickable="true"
+            app:fabSize="normal"
+            app:srcCompat="@drawable/fab_current_location_off" />
+
+
+    </LinearLayout>
+
+
+</RelativeLayout>
+
+

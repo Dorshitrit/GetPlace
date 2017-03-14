@@ -1,0 +1,25 @@
+<preference-headers xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- These settings headers are only used on tablets. -->
+
+    <header
+        android:fragment="app.com.getplace.UI.SettingsActivity$GeneralPreferenceFragment"
+        android:icon="@drawable/ic_setting_info"
+        android:title="@string/pref_header_general" />
+
+    <header
+        android:fragment="app.com.getplace.UI.SettingsActivity$DataSyncPreferenceFragment"
+        android:icon="@drawable/ic_setting_sync"
+        android:title="@string/pref_header_data_sync" />
+
+    <header
+        android:fragment="app.com.getplace.UI.SettingsActivity$MapStylePreferenceFragment"
+        android:icon="@drawable/ic_setting_mapstyle"
+        android:title="@string/pref_header_mapstyle" />
+
+    <header
+        android:fragment="app.com.getplace.UI.SettingsActivity$AboutAppPreferenceFragment"
+        android:icon="@drawable/ic_info_user"
+        android:title="@string/pref_header_about" />
+
+</preference-headers>

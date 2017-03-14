@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\DorSh\\Desktop\\GP BACKUP\\GetPlace\\app\\build\\intermediates\\res\\merged\\debug\\raw\\mapstyle_aubergine.json",
+        "source": "C:\\Users\\DorSh\\Desktop\\GP BACKUP\\GetPlace\\app\\src\\main\\res\\raw\\mapstyle_aubergine.json"
+    },
+    {
+        "merged": "C:\\Users\\DorSh\\Desktop\\GP BACKUP\\GetPlace\\app\\build\\intermediates\\res\\merged\\debug\\raw\\mapstyle_night.json",
+        "source": "C:\\Users\\DorSh\\Desktop\\GP BACKUP\\GetPlace\\app\\src\\main\\res\\raw\\mapstyle_night.json"
+    },
+    {
+        "merged": "C:\\Users\\DorSh\\Desktop\\GP BACKUP\\GetPlace\\app\\build\\intermediates\\res\\merged\\debug\\raw\\mapstyle_grayscale.json",
+        "source": "C:\\Users\\DorSh\\Desktop\\GP BACKUP\\GetPlace\\app\\src\\main\\res\\raw\\mapstyle_grayscale.json"
+    },
+    {
+        "merged": "C:\\Users\\DorSh\\Desktop\\GP BACKUP\\GetPlace\\app\\build\\intermediates\\res\\merged\\debug\\raw\\mapstyle_standard.json",
+        "source": "C:\\Users\\DorSh\\Desktop\\GP BACKUP\\GetPlace\\app\\src\\main\\res\\raw\\mapstyle_standard.json"
+    },
+    {
+        "merged": "C:\\Users\\DorSh\\Desktop\\GP BACKUP\\GetPlace\\app\\build\\intermediates\\res\\merged\\debug\\raw\\mapstyle_retro.json",
+        "source": "C:\\Users\\DorSh\\Desktop\\GP BACKUP\\GetPlace\\app\\src\\main\\res\\raw\\mapstyle_retro.json"
+    }
+]

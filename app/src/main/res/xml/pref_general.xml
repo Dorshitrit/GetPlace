@@ -1,0 +1,25 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <SwitchPreference
+        android:defaultValue="false"
+        android:key="distance_miles"
+        android:summary="@string/pref_description_distance_recommendations"
+        android:title="@string/pref_title_distance_recommendations" />
+
+
+    <SwitchPreference
+        android:defaultValue="false"
+        android:key="night_mode"
+        android:summary="@string/pref_description_nightmode_recommendations"
+        android:title="@string/pref_title_nightmode_recommendations" />
+
+
+    <SwitchPreference
+        android:defaultValue="false"
+        android:key="night_mode_clock"
+        android:summary="@string/pref_description_nightmodeclock_recommendations"
+        android:title="@string/pref_title_nightmodeclock_recommendations" />
+
+
+
+</PreferenceScreen>
